@@ -1,2 +1,2 @@
-# suehirogari.github.io-
+# suehirogari.github.io
 web
